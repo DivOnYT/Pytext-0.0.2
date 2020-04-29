@@ -1,4 +1,0 @@
-Hello Guys my new PyText V2.0
-is more good than latest version.
-Bonjour les gars mon nouveau editeur PyText version2.0
-est bonjour mieux que l'ancienne version
